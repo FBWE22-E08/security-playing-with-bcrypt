@@ -1,0 +1,13 @@
+{
+  "name": "security-with-bcrypt",
+  "version": "1.0.0",
+  "description": "This assignment will allow you to play around with the `bcrypt` package",
+  "main": "login.js",
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}
